@@ -10,7 +10,7 @@ Follow the steps below in order to generate and include ROS libraries
 
 ```
 $ cd path/to/catkin_ws/src/
-$ git clone https:/www.github.com/sachin0x18/rosserial_esp32.git
+$ git clone https://www.github.com/sachin0x18/rosserial_esp32.git
 $ rosrun rosserial_esp32 make_libraries.py $IDF_PATH/components/
 ```
 
